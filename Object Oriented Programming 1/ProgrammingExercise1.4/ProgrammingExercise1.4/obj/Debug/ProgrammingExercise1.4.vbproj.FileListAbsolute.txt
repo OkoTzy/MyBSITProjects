@@ -1,0 +1,10 @@
+C:\Users\OkoTzy\Documents\Visual Studio 2008\Projects\ProgrammingExercise1.4\ProgrammingExercise1.4\bin\Debug\ProgrammingExercise1.4.exe
+C:\Users\OkoTzy\Documents\Visual Studio 2008\Projects\ProgrammingExercise1.4\ProgrammingExercise1.4\bin\Debug\ProgrammingExercise1.4.pdb
+C:\Users\OkoTzy\Documents\Visual Studio 2008\Projects\ProgrammingExercise1.4\ProgrammingExercise1.4\bin\Debug\ProgrammingExercise1.4.xml
+C:\Users\OkoTzy\Documents\Visual Studio 2008\Projects\ProgrammingExercise1.4\ProgrammingExercise1.4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OkoTzy\Documents\Visual Studio 2008\Projects\ProgrammingExercise1.4\ProgrammingExercise1.4\obj\Debug\ProgrammingExercise1._4.Form1.resources
+C:\Users\OkoTzy\Documents\Visual Studio 2008\Projects\ProgrammingExercise1.4\ProgrammingExercise1.4\obj\Debug\ProgrammingExercise1._4.Resources.resources
+C:\Users\OkoTzy\Documents\Visual Studio 2008\Projects\ProgrammingExercise1.4\ProgrammingExercise1.4\obj\Debug\ProgrammingExercise1.4.vbproj.GenerateResource.Cache
+C:\Users\OkoTzy\Documents\Visual Studio 2008\Projects\ProgrammingExercise1.4\ProgrammingExercise1.4\obj\Debug\ProgrammingExercise1.4.exe
+C:\Users\OkoTzy\Documents\Visual Studio 2008\Projects\ProgrammingExercise1.4\ProgrammingExercise1.4\obj\Debug\ProgrammingExercise1.4.xml
+C:\Users\OkoTzy\Documents\Visual Studio 2008\Projects\ProgrammingExercise1.4\ProgrammingExercise1.4\obj\Debug\ProgrammingExercise1.4.pdb
